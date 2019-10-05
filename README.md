@@ -1,7 +1,8 @@
-# Tanks
+# Battle Tanks
 <p align="center">
-  <b>Battle Tanks</b><br>
   <a href="https://en.wikipedia.org/wiki/Battle_City_(video_game)"><img src="https://habrastorage.org/storage2/1d4/24a/f3a/1d424af3af24b078cb2d92e8ba9884ff.jpg"></a>
+  <br>
+  Screenshot of original <i>Battle City</i> (NES)
 </p>
 
 ## About

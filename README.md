@@ -9,7 +9,7 @@
 [Green Button Games](https://greenbuttongames.com/) test task source code  
 [Project design document](https://greenbuttongames.com/) (Google Drive link)  
 
-This project is an implementation of the legendary Battle City game
+This project is an implementation of the legendary Battle City game in Unity using Playmaker
 ___
 <p align="center">
   <b>Made With</b><br>
